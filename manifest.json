@@ -1,0 +1,46 @@
+{
+  "name": "Tutorial Otomasi Indonesia",
+  "short_name": "Tutorial Otomasi Indonesia",
+  "scope": "https://www.tutorial-otomasi.com",
+  "start_url": "https://www.tutorial-otomasi.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#1c5f5b",
+  "description": "All About Automation Tutorials Like Electronics, Microcontrollers (Arduino, STM32, ESP8266, ESP32, Node MCU), Single Board Computer (Raspberry Pi, Orange Pi), Sensor, Actuators, Drivers, Interface, IoT, LoRaWAN, Webserver, Web Base, Industrial Bridge (RS232, RS485, Modbus, OPC, Can Bus, Profibus-PA, Profibus-DP, Profinet, Ethernet/IP, IO-Link), PLC, SCADA HMI, Node Red, Project DIY, Learning, Tutorial Step by Step, Instructions for Beginners.",
+  "icons": [{
+    "src": "https://cdn.statically.io/img/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7WBxfVxpr5R5HHQW80Ouzyukbxaa1LRxkMsnI7w0q3MzMboDCVYrcFisc2VRgBL-7-5_PXCpdCZjRn_7pF2Ab7j3km19H1AENeVdYmG8smrx_Pk4vKFVk7wcqVN2dhK-TXfhf39aMorf2LYFNAxa-k4o2-qKtKzr-fRAtGZotSIhx1j9fIPAheTFh_84f/s48/logo500x500.png",
+    "sizes": "48x48",
+    "type": "image/png"
+    "purpose": "any maskable"
+  }, {
+    "src": "https://cdn.statically.io/img/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7WBxfVxpr5R5HHQW80Ouzyukbxaa1LRxkMsnI7w0q3MzMboDCVYrcFisc2VRgBL-7-5_PXCpdCZjRn_7pF2Ab7j3km19H1AENeVdYmG8smrx_Pk4vKFVk7wcqVN2dhK-TXfhf39aMorf2LYFNAxa-k4o2-qKtKzr-fRAtGZotSIhx1j9fIPAheTFh_84f/s72/logo500x500.png",
+    "sizes": "72x72",
+    "type": "image/png"
+    "purpose": "any maskable"
+  }, {
+    "src": "https://cdn.statically.io/img/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7WBxfVxpr5R5HHQW80Ouzyukbxaa1LRxkMsnI7w0q3MzMboDCVYrcFisc2VRgBL-7-5_PXCpdCZjRn_7pF2Ab7j3km19H1AENeVdYmG8smrx_Pk4vKFVk7wcqVN2dhK-TXfhf39aMorf2LYFNAxa-k4o2-qKtKzr-fRAtGZotSIhx1j9fIPAheTFh_84f/s96/logo500x500.png",
+    "sizes": "96x96",
+    "type": "image/png"
+    "purpose": "any maskable"
+  }, {
+    "src": "https://cdn.statically.io/img/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7WBxfVxpr5R5HHQW80Ouzyukbxaa1LRxkMsnI7w0q3MzMboDCVYrcFisc2VRgBL-7-5_PXCpdCZjRn_7pF2Ab7j3km19H1AENeVdYmG8smrx_Pk4vKFVk7wcqVN2dhK-TXfhf39aMorf2LYFNAxa-k4o2-qKtKzr-fRAtGZotSIhx1j9fIPAheTFh_84f/s144/logo500x500.png",
+    "sizes": "144x144",
+    "type": "image/png"
+    "purpose": "any maskable"
+  }, {
+    "src": "https://cdn.statically.io/img/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7WBxfVxpr5R5HHQW80Ouzyukbxaa1LRxkMsnI7w0q3MzMboDCVYrcFisc2VRgBL-7-5_PXCpdCZjRn_7pF2Ab7j3km19H1AENeVdYmG8smrx_Pk4vKFVk7wcqVN2dhK-TXfhf39aMorf2LYFNAxa-k4o2-qKtKzr-fRAtGZotSIhx1j9fIPAheTFh_84f/s168/logo500x500.png",
+    "sizes": "168x168",
+    "type": "image/png"
+    "purpose": "any maskable"
+  }, {
+    "src": "https://cdn.statically.io/img/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7WBxfVxpr5R5HHQW80Ouzyukbxaa1LRxkMsnI7w0q3MzMboDCVYrcFisc2VRgBL-7-5_PXCpdCZjRn_7pF2Ab7j3km19H1AENeVdYmG8smrx_Pk4vKFVk7wcqVN2dhK-TXfhf39aMorf2LYFNAxa-k4o2-qKtKzr-fRAtGZotSIhx1j9fIPAheTFh_84f/s192/logo500x500.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    "purpose": "any maskable"
+  }, {
+    "src": "https://cdn.statically.io/img/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7WBxfVxpr5R5HHQW80Ouzyukbxaa1LRxkMsnI7w0q3MzMboDCVYrcFisc2VRgBL-7-5_PXCpdCZjRn_7pF2Ab7j3km19H1AENeVdYmG8smrx_Pk4vKFVk7wcqVN2dhK-TXfhf39aMorf2LYFNAxa-k4o2-qKtKzr-fRAtGZotSIhx1j9fIPAheTFh_84f/s512/logo500x500.png",
+    "sizes": "512x512",
+    "type": "image/png"
+    "purpose": "any maskable"
+  }]
+}
